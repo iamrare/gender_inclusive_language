@@ -57,7 +57,7 @@ We welcome contributions in other languages.
 <tr><td>mailman</td><td>mail carrier, letter carrier, postal worker</td></tr>
 <tr><td>man (n.)</td><td>person, individual</td></tr>
 <tr><td>man (v.)</td><td>to guard, to staff, to mind [the store]</td></tr>
-<tr><td>mankind</td><td>people, human beings, humanity</td></tr>
+<tr><td>mankind</td><td>humankind, humanity, human race, human beings, people</td></tr>
 <tr><td>man-made</td><td>synthetic, artificial, hand-made, machine-made</td></tr>
 <tr><td>manhole</td><td>utility hole, sewer hole</td></tr>
 <tr><td>manpower</td><td>workers, workforce, staffing</td></tr>
