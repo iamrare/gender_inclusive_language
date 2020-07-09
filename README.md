@@ -1,6 +1,6 @@
-# Gender inclusive language
+# Gender-inclusive language
 
-This is a list of gender inclusive language that we use with some of our projects.
+This is a list of gender-inclusive language that we use with some of our projects.
 
 This list is organic, adaptable to local context, social context, priorities, cultural sensitivities, etc.
 
